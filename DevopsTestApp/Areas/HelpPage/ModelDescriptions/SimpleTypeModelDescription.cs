@@ -1,0 +1,6 @@
+namespace DevopsTestApp.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
